@@ -2,27 +2,27 @@
 Console app for sending bulk email.
 
 ```bash
-        ________________________________
-          ____  _       __  __       _ _
-         | __ )(_) __ _|  \/  | __ _(_) |
-         |  _ \| |/ _` | |\/| |/ _` | | |
-         | |_) | | (_| | |  | | (_| | | |
-         |____/|_|\__, |_|  |_|\__,_|_|_|
+                              ________________________________
+                                ____  _       __  __       _ _
+                               | __ )(_) __ _|  \/  | __ _(_) |
+                               |  _ \| |/ _` | |\/| |/ _` | | |
+                               | |_) | | (_| | |  | | (_| | | |
+                               |____/|_|\__, |_|  |_|\__,_|_|_|
 
-         ________ |___/ Mass Mailer _____
-          Author: redmagnu5@github.com
+                               ________ |___/ Mass Mailer _____
+                                Author: redmagnu5@github.com
 
-        Email list must be a basic text file (.txt) and have the
-        following structure:
+                              Email list must be a basic text file (.txt) and have the
+                              following structure:
 
-                 user@domain
-                 user2@domain
-                 user3@domain
-                   .....
+                                       user@domain
+                                       user2@domain
+                                       user3@domain
+                                         .....
 
 
 
-        PLEASE DO NOT USE FOR SPAMMING
+                              PLEASE DO NOT USE FOR SPAMMING
 ```
 
 ## Installation
