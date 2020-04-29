@@ -1,0 +1,14 @@
+SendInfo:
+  Sender: FROM
+  Subject: SUBJECT
+  Attachment: NAME_OF_ATTACHMENT
+  Body: |
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+          <meta charset="UTF-8">
+        </head>
+        <body>
+          YOUR HTML HERE
+        </body>
+        </html>
